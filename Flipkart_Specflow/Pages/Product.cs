@@ -9,6 +9,7 @@ namespace Flipkart_Specflow.Pages
 {
     public class Product
     {
+        //Git implemented on 29th September
         private IWebDriver _driver; 
 
         [FindsBy(How = How.ClassName, Using = "B_NuCI")]
