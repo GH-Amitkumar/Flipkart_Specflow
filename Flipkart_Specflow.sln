@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipkart_Specflow", "Flipkart_Specflow\Flipkart_Specflow.csproj", "{697F3E0E-D487-49DD-9314-C437A61A5C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697F3E0E-D487-49DD-9314-C437A61A5C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697F3E0E-D487-49DD-9314-C437A61A5C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697F3E0E-D487-49DD-9314-C437A61A5C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697F3E0E-D487-49DD-9314-C437A61A5C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1710C8-5D7F-4515-AEE1-84F25EEDCEA2}
+	EndGlobalSection
+EndGlobal
